@@ -1,0 +1,11 @@
+
+HOW TO EDIT VIA VIM MODE
+
+
+vim filename.txt (to create if not available already or opens the file)
+
+
+write i and enter to get into insert mode
+
+write :wq to write and quite the file
+
