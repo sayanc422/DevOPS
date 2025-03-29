@@ -1,2 +1,9 @@
 
-print("Stars")
+
+import math;
+
+
+
+ print("Stars"
+      )
+
